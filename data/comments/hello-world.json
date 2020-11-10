@@ -1,1 +1,18 @@
-[{"userId":"user-id","name":"The User","avatar":"https://api.adorable.io/avatars/255/the-user@email.png","content":"This is it","createdAt":1604435796832,"id":"Ng0UfvrO-THE389XYVkHkmroWv6vfq"}]
+[
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "This is it",
+    "createdAt": 1604435796832,
+    "id": "Ng0UfvrO-THE389XYVkHkmroWv6vfq"
+  },
+  {
+    "userId": "github-3620459",
+    "name": "adamdullenty",
+    "avatar": "https://avatars2.githubusercontent.com/u/3620459?v=4",
+    "content": "This is the comment content",
+    "createdAt": 1605038732301,
+    "id": "n4LFvDX6I93Ip-QSAEO8tpJDT7ry0h"
+  }
+]
